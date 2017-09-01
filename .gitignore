@@ -1,0 +1,24 @@
+##Eclipse configuration files
+.classpath
+.checkstyle
+.index
+.project
+.settings/
+*/**/*.classpath
+.externalToolBuilders
+
+## Maven compiled files
+target/
+bin/
+src/main/database/sql
+
+## Gedit temporary files
+*~
+
+## Binary files
+*.class
+
+## Temporary files
+*.epoch
+*.log
+*.lck
